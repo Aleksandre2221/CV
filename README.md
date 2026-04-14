@@ -1,2 +1,1 @@
-# CV
-[Aleksandre_Kobidze_Junior_Data_Analyst.pdf](https://github.com/user-attachments/files/26728827/Aleksandre_Kobidze_Junior_Data_Analyst.pdf)
+# [CV](https://github.com/Aleksandre2221/CV/blob/main/Aleksandre_Kobidze_Junior_Data_Analyst.pdf)
